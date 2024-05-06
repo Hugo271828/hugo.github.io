@@ -30,18 +30,6 @@ My research interests include *3D completion and reconstruction* and *metamateri
 +   news3
 
 
-# Publications
-<table id="tbPublications">
-<tbody><tr><td>
-<img src="../images/FSDM.png" width="285px">
-</td><td><b>News-based Research on Forecast of International Natural gas price trend</b><br>
-<b>Li Tianxiang</b>, Han Xiaosong, Wang Aoqing, Li Hui, Liu Guosheng, Pei Ying<br><em>FSDM[C], 2020.</em><p>
-[<a href="https://books.google.com/books?hl=zh-CN&lr=&id=ey4NEAAAQBAJ&oi=fnd&pg=PA194&dq=News-based+Research+on+Forecast+of+International+Natural+gas+price+trend&ots=2maa8AyIH5&sig=_iY4BmQzlqeo-dc7hvejDs3IPGM#v=onepage&q=News-based%20Research%20on%20Forecast%20of%20International%20Natural%20gas%20price%20trend&f=false" target="_blank">paper</a>]
-</p></td></tr><tr></tr><tr></tr><tr></tr><tr><td></td>
-</table>
-
-
-
 # Experience
 
 - University of Chinese Academy of Sciences, Sep. 2020-Jun.2023  
@@ -66,4 +54,18 @@ My research interests include *3D completion and reconstruction* and *metamateri
 4. s
 5. s
 6. s
+
+
+# Publications
+<table id="tbPublications">
+<tbody><tr><td>
+<img src="../images/FSDM.png" width="285px">
+</td><td><b>News-based Research on Forecast of International Natural gas price trend</b><br>
+<b>Li Tianxiang</b>, Han Xiaosong, Wang Aoqing, Li Hui, Liu Guosheng, Pei Ying<br><em>FSDM[C], 2020.</em><p>
+[<a href="https://books.google.com/books?hl=zh-CN&lr=&id=ey4NEAAAQBAJ&oi=fnd&pg=PA194&dq=News-based+Research+on+Forecast+of+International+Natural+gas+price+trend&ots=2maa8AyIH5&sig=_iY4BmQzlqeo-dc7hvejDs3IPGM#v=onepage&q=News-based%20Research%20on%20Forecast%20of%20International%20Natural%20gas%20price%20trend&f=false" target="_blank">paper</a>]
+</p></td></tr><tr></tr><tr></tr><tr></tr><tr><td></td>
+</table>
+
+
+
 
