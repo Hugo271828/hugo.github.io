@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font face=Times>
 
 
-#<font color=CornflowerBlue>Tianxiang Li</font>
+# Tianxiang Li
 
 ### Ph.D Candidate 
 
@@ -17,19 +16,21 @@ Center of Digital Dentistry, Faculty of Prosthodontics
 Peking University school and hospital of Stomatology  
 Beijing, China
 
-<font color=CornflowerBlue>Biography</font>
+Biography
 ======
 I am a doctoral student studying at the Center of Digital Dentistry, [Peking University School and Hospital of Stomatology](https://ss.bjmu.edu.cn/). I am working with teachers Sun Yuchun and Tian Sukun. Before that, I received my master's degree from the University of Chinese Academy of Sciences. Graduated from the Computer Science Department of Jilin University with a bachelor's degree.  
   
 My research interests include *3D completion and reconstruction* and *metamaterial design*. Specifically, I focus on using 3D computer technology to solve design and segmentation tasks in dentistry. In addition, I am also working on metamaterial structure design and gingival margin line fenge tasks.
 
-<font color=CornflowerBlue>News</font>
+News
 ------
 +   \[05/2024\] Our paper on video shadow detection is accepted at [CVPR'2023](https://cvpr2023.thecvf.com/)!
 +   news1
 +   news2
 +   news3
-<font color=CornflowerBlue>Publications</font>
+
+
+Publications
 ------
 <table id="tbPublications">
 <tbody><tr><td>
@@ -42,7 +43,7 @@ My research interests include *3D completion and reconstruction* and *metamateri
 
 
 
-<font color=CornflowerBlue>Experience</font>
+Experience
 ------
 - University of Chinese Academy of Sciences, Sep. 2020-Jun.2023  
 - Master of Computer Application Technology, Urumqi  
@@ -50,7 +51,7 @@ My research interests include *3D completion and reconstruction* and *metamateri
 - Bachelor of Computer Science and Technology, Changchun  
 - Bachelor of Accounting, Double degree, Changchun  
 
-<font color=CornflowerBlue>Honors & Awards</font>
+Honors & Awards
 ------
 1. Individual Scholarship, Jilin University	2017, 2018  
 2. Second prize, National English Competition for College Students 2017, 2018  
@@ -58,7 +59,7 @@ My research interests include *3D completion and reconstruction* and *metamateri
 4. Third prize, Asia-Pacific Mathematical Modeling Competition		2018  
 5. Merit student of Chinese Academy of Sciences University		2022  
 
-<font color=CornflowerBlue>Professional Activities</font>
+Professional Activities
 ------
 1. s
 2. s
@@ -67,4 +68,3 @@ My research interests include *3D completion and reconstruction* and *metamateri
 5. s
 6. s
 
-</font>
