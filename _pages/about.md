@@ -9,8 +9,8 @@ redirect_from:
 <font face=Times>
 
 
-<font color=CornflowerBlue>Tianxiang Li</font>
-======
+#<font color=CornflowerBlue>Tianxiang Li</font>
+
 ### Ph.D Candidate 
 
 Center of Digital Dentistry, Faculty of Prosthodontics  
@@ -66,3 +66,5 @@ My research interests include *3D completion and reconstruction* and *metamateri
 4. s
 5. s
 6. s
+
+</font>
